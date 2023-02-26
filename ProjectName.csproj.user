@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<ChroMapperDir><!--ChroMapperのインストールフォルダパス[末尾の\不要] 例:(C:\TOOL\ChroMapper\chromapper)--></ChroMapperDir>
+		<ReferencePath>$(ChroMapperDir)\ChroMapper_Data\Managed;$(ChroMapperDir)\Plugins</ReferencePath>
+	</PropertyGroup>
+</Project>
