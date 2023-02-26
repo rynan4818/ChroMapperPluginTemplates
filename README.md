@@ -7,7 +7,7 @@ ChroMapperプラグインの作成方法は[Wiki](https://github.com/rynan4818/C
 
 ## インストール方法
 
-`(マイドキュメントフォルダ)\Visual Studio 2022\Templates\ProjectTemplates`に[Releases](https://github.com/rynan4818/ChroMapperPluginTemplates/releases)に添付している`ChroMapper-Plugin(*).zip`をコピーします。
+`(マイドキュメントフォルダ)\Visual Studio 2022\Templates\ProjectTemplates`に[Releases](https://github.com/rynan4818/ChroMapperPluginTemplates/releases)に添付している`ChroMapper-Plugin.*.zip`をコピーします。
 
 ## 使用方法
 
