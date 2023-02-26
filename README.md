@@ -10,6 +10,7 @@ ChroMapperプラグインの作成方法は[Wiki](https://github.com/rynan4818/C
 `(マイドキュメントフォルダ)\Visual Studio 2022\Templates\ProjectTemplates`に[Releases](https://github.com/rynan4818/ChroMapperPluginTemplates/releases)に添付している`ChroMapper-Plugin.*.zip`をコピーします。
 
 ## 使用方法
+新しいプロジェクトの作成で、テンプレートの検索に`Chro`と入れるとテンプレートが出てきますので、それでプロジェクトを作成します。
 
 [Releases](https://github.com/rynan4818/ChroMapperPluginTemplates/releases)に添付している`ProjectName.csproj.user`をプロジェクトフォルダ(.csprojがあるフォルダ)にコピーして、`ProjectName`をプロジェクト名にリネームします。
 
