@@ -3,6 +3,8 @@ ChroMapperのプラグイン作成用のVisualStudio用テンプレートです
 
 Windows版のVisualStudio2022で動作確認済みです
 
+ChroMapperプラグインの作成方法は[Wiki](https://github.com/rynan4818/ChroMapperPluginTemplates/wiki)に公式ドキュメントの日本語訳を置きましたので参考にしてください
+
 ## インストール方法
 
 `(マイドキュメントフォルダ)\Visual Studio 2022\Templates\ProjectTemplates`に[Releases](https://github.com/rynan4818/ChroMapperPluginTemplates/releases)に添付している`ChroMapper-Plugin(*).zip`をコピーします。
