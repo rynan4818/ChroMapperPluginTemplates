@@ -12,6 +12,10 @@
     <LocationField>Enabled</LocationField>
     <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
     <Icon>__TemplateIcon.ico</Icon>
+    <LanguageTag>csharp</LanguageTag>
+    <PlatformTag>windows</PlatformTag>
+    <ProjectTypeTag>library</ProjectTypeTag>
+    <ProjectTypeTag>games</ProjectTypeTag>
   </TemplateData>
   <TemplateContent>
     <Project TargetFileName="$safeprojectname$.csproj" File="ChroMapper-Plugin(OptionHarmony).csproj" ReplaceParameters="true">
