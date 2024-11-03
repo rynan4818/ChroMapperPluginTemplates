@@ -36,6 +36,9 @@ Git管理する場合は`ReleasesArchives`のDLLとzipを除外するために`.
 プロジェクト名*.dll
 ```
 
+## よく使用するライブラリ
+ChroMapperプラグインを作る上でよく使用するライブラリ[csproj_reference_library.md](https://github.com/rynan4818/ChroMapperPluginTemplates/blob/main/csproj_reference_library.md)にまとめてあります。
+
 ## 各テンプレートの説明
 - ChroMapper-Plugin(Core) : 最小限の構成です
 - ChroMapper-Plugin(Option) : Coreに設定ファイル用のOprion.csを追加

@@ -8,7 +8,7 @@ namespace $safeprojectname$
     public class Plugin
     {
         public static Harmony _harmony;
-        public const string HARMONY_ID = "com.github.username.$projectname$";
+        public const string HARMONY_ID = "com.github.username.$projectname$"; //username を各自変更してください
         [Init]
         private void Init()
         {
@@ -19,7 +19,7 @@ namespace $safeprojectname$
         [Exit]
         private void Exit()
         {
-            _harmony.UnpatchAll(HARMONY_ID);
+            _harmony.UnpatchSelf();
             Debug.Log("$projectname$ Plugin has closed!");
         }
     }
